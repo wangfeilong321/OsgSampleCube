@@ -1,0 +1,7 @@
+*.pdb
+*.opensdf
+*.sdf
+*.suo
+*.obj
+*.log
+[Dd]ebug*/
